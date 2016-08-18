@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "P8A8G8XXL8.com.walletone.UniversalLink",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
